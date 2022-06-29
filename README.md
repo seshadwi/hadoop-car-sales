@@ -27,3 +27,4 @@ Dari data tersebut, akan dilakukan perhitungan banyaknya Manufacture dari mobil 
 https://drive.google.com/file/d/1plJhULE7oPpg-zrA29AndKdwN6c-_oS2/view?usp=sharing
 
 ### Hasil Mapreduce Hadoop
+![](pic/picture.png)
