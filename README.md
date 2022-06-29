@@ -20,4 +20,5 @@ Data didapatkan dari kaggle dengan nama Car sales, data tersebut terdiri dari :
 - Horsepower
 - Wheelbase
 - Width
+
 Dari data tersebut, akan dilakukan perhitungan banyaknya Manufacture dari mobil yang telah terjual menggunakan hadoop.
