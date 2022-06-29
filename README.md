@@ -22,3 +22,8 @@ Data didapatkan dari kaggle dengan nama Car sales, data tersebut terdiri dari :
 - Width
 
 Dari data tersebut, akan dilakukan perhitungan banyaknya Manufacture dari mobil yang telah terjual menggunakan hadoop.
+
+### File .csv
+https://drive.google.com/file/d/1plJhULE7oPpg-zrA29AndKdwN6c-_oS2/view?usp=sharing
+
+### Hasil Mapreduce Hadoop
