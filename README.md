@@ -28,3 +28,6 @@ https://drive.google.com/file/d/1plJhULE7oPpg-zrA29AndKdwN6c-_oS2/view?usp=shari
 
 ### Hasil Mapreduce Hadoop
 ![](pic/picture.png)
+
+### Link Video Youtube
+https://youtu.be/F7wznrX4yUU
